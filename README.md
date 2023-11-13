@@ -19,4 +19,4 @@ O documento está disponível para visualização no [Overleaf](https://www.over
 
 - Apresentação no [Google Slides](https://docs.google.com/presentation/d/1_64v6pdpr2_e-yBWh35_gFtmyyKQKtseYVF-V8jNo2o/edit?usp=sharing).
 - Repositório com [Matriz Wavefront](https://github.com/bernardovento/Matriz-Wavefront) apresentada em sala.
-- Repositório com exercício [Contar Palavras](https://github.com/luwucaz/contarPalavras) para o Autograde.
+- Repositório com exercício [Contar Palavras](https://github.com/luwucaz/contarPalavras) para o Autolab.
